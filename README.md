@@ -7,7 +7,7 @@ As the total data set is fairly large (> 30 million rows), the scatter plots, U-
 Raw data is more than 100 MB, so please visit the source website below to obtain the raw data.
 The RMarkdown file is formatted to be viewed in RStudio console, and the knitted html report are for non-technical audience.
 
-# [Project 2: Update Taxonomic Information on Alberta Roadkill]([https://github.com/Wani2Y/Bike-user-behaviour-analysis-R](https://github.com/Wani2Y/Alberta-road-kill-R))
+# [Project 2: Update Taxonomic Information on Alberta Roadkill](https://github.com/Wani2Y/Bike-user-behaviour-analysis-R](https://github.com/Wani2Y/Alberta-road-kill-R)
 Description: This project uses reported road kill data in Alberta in 2020, to analyse which taxomoic groups are most impacted by vehicle traffic. The geospatial insights may inform policy making regarding the construction of wildlife corridor and the placement of animal crossing signs. Raw data belongs to the Alberta Wildlife Watch, and I obtained the raw data from the Alberta Open Data Portal.
 
 # [Project 3: Geospatial Analysis of Pet licensing in Edmonton](https://github.com/Wani2Y/Edmonton-pet-license-distribution-R/tree/main)
