@@ -2,8 +2,8 @@
  My selected data projects
 
 # [Project 1: Bike User Behaviour Analysis](https://github.com/Wani2Y/Bike-user-behaviour-analysis-R)
-Description: This project uses historical bike ride data from 2013 to 2023, to examine the different riding behaviours between subscribers and customers of Cyclistics.
-As the total data set is fairly large (> 30 million rows), the scatter plots, U-test, Kruskal–Wallis test, and Wilcoxon signed-ranking test may take a long time to run. To speed up the computation, you may sample a subset of the total data for the statistic tests. 
+Description: This project uses historical bike ride data from 2013 to 2023, to examine the different riding behaviours between subscribers and customers of Cyclistics, as well as the geospatial pattern of bike stations over the 10-year period.
+As the total data set is fairly large (> 30 million rows), the scatter plots, U-test, Kruskal–Wallis test, and Wilcoxon signed-ranking test may take a long time to run. To speed up the computation, you may sample a subset of the total data for the same statistic tests. 
 Raw data is more than 100 MB, so please visit the source website below to obtain the raw data.
 The RMarkdown file is formatted to be viewed in RStudio console, and the knitted html report are for non-technical audience.
 
